@@ -1,0 +1,27 @@
+
+.box-1 {
+    box-sizing: border-box;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.box-2 {
+    border: 1px solid black;
+    text-align: center;
+}
+
+#crunchy {
+    padding: 5px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    text-align: center;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: separate;
+    padding: 5px;
+    margin: auto;
+}
